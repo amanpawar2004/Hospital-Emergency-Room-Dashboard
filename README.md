@@ -12,6 +12,9 @@ This project presents a **portfolio-grade, interactive Excel dashboard** designe
 It focuses on identifying **patient flow patterns, wait-time bottlenecks, and service performance metrics** to support data-driven healthcare decisions.
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard](https://github.com/amanpawar2004/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20Image.jpg?raw=true)
 
 ## 🚀 Key Business Questions Answered
 
@@ -56,9 +59,7 @@ It focuses on identifying **patient flow patterns, wait-time bottlenecks, and se
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard](https://github.com/amanpawar2004/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20Image.jpg?raw=true)
 
 ---
 
