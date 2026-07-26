@@ -58,9 +58,7 @@ It focuses on identifying **patient flow patterns, wait-time bottlenecks, and se
 
 ## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="path/to/your/image.png" width="800"/>
-</p>
+![Dashboard](https://github.com/amanpawar2004/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20Image.jpg?raw=true)
 
 ---
 
